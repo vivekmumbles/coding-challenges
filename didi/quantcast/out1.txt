@@ -1,0 +1,4 @@
+{"id":3,"last":"Black","first":"Jim","location":
+{"city":"Spokane","state":"WA","postalCode":"99207"},"active":true}
+{"id":1,"last":"Doe","first":"John","location":
+{"city":"Oakland","state":"CA","postalCode":"94607"},"active":true}
